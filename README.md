@@ -47,7 +47,7 @@ Cada capítulo está organizado em sua própria pasta, contendo:
 ## Autor
 
 **Álisson Brener**  
-Contato: [seu_email@dominio.com]  
+Contato: alisson15brener@gmail.com  
 Curso: Engenharia de Computação
 
 ---
