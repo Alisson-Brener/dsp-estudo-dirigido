@@ -26,7 +26,7 @@ Para cada capítulo:
 | 5 | Transformada Discreta de Fourier | [Resumo](https://colab.research.google.com/drive/1ARdJ-fI7BhbgyA15PA5BlfxAwQq2rGuO?usp=sharing) | [Simulação](https://colab.research.google.com/drive/1io5DyLWfFuCdRzk2VFrCiZXVFkPF7cDv?usp=sharing) | [Vídeos](./Parte%202/links_videos.md) |
 | 6 | Implementação de Filtros no Tempo | [Resumo](https://colab.research.google.com/drive/1uqayPf2hxGqbZ_cnvrQ3j_76xmdc4AeJ?usp=sharing) | [Simulação](https://colab.research.google.com/drive/1A2-z6_mbJrlgBONoDYY9JFvCtu5qLKZu?usp=sharing) | [Vídeos](./Parte%203/links_videos.md) |
 | 7 | Projeto de Filtros FIR | [Resumo](https://colab.research.google.com/drive/1uA6OzkAItuCzf30s-wiX8ELV6WkeC7PG?usp=sharing) | [Simulação](https://colab.research.google.com/drive/1FhVHd1HPGrVUbkGvlcs-HFM3D5_zdnMD?usp=sharing) | [Vídeos](./Parte%204/links_videos.md) |
-| 8 | Projeto de Filtros IIR | [Resumo](./capitulo08-filtros-iir/resumo_colab.ipynb) | [Simulação](./capitulo08-filtros-iir/simulacao_iir.py) | [Vídeos](./capitulo08-filtros-iir/links_videos.md) |
+| 8 | Projeto de Filtros IIR | [Resumo](https://drive.google.com/file/d/1rnK010KF3CjbfDXVTpmI1ktjuevFOd9n/view?usp=sharing) | [Simulação](https://colab.research.google.com/drive/1JLEtVMeqfpM23cKAAlnYwpnXDZUfLl5K?usp=sharing) | [Vídeos](./capitulo08-filtros-iir/links_videos.md) |
 | 12 | Aplicações em Comunicações | [Resumo](./capitulo12-comunicacoes/resumo_colab.ipynb) | [Simulação](./capitulo12-comunicacoes/simulacao_comunicacoes.py) | [Vídeos](./capitulo12-comunicacoes/links_videos.md) |
 
 ---
@@ -47,7 +47,11 @@ Cada capítulo está organizado em sua própria pasta, contendo:
 ## Autor
 
 **Álisson Brener**  e **Vinícius Rodrigues**
+
 Contato: alisson15brener@gmail.com  
+
+Contato: vinicius.gonzaga@academico.ifpb.edu.br
+
 Curso: Engenharia de Computação
 
 ---
